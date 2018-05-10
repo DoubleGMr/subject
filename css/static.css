@@ -217,7 +217,7 @@ header .flex .flex{
 	background: radial-gradient(#0084ff,#c1e9fb,#fff);
 }
 .content{
-	align-items: normal;
+	align-items: initial;
 	margin: 8px 0 0;
 }
 .content .left-content{
